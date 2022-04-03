@@ -1,0 +1,3 @@
+crisbar 1111 crisbar@cris.com 666888777 no
+juan 2222 juan@correo.com 777444888 si
+eva 3333 eva@correo.com 754874547 si

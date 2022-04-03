@@ -1,0 +1,3 @@
+Escribe aqui la cadena 
+Esta es otra cadena 
+Y esto es un numero

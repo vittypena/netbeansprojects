@@ -1,0 +1,5 @@
+articulos{cod_art=555, descripcion=borradoBien, precio=0.4, stock=0}
+articulos{cod_art=425, descripcion=calzoncillo, precio=9.99, stock=322}
+articulos{cod_art=999, descripcion=raro, precio=1.9995, stock=50}
+articulos{cod_art=654, descripcion=rosio, precio=1.0, stock=0}
+articulos{cod_art=321, descripcion=asdfasfg, precio=8.4, stock=5}

@@ -1,0 +1,6 @@
+El codigo es: 11111 el nombre es: Saruman
+El codigo es: 22222 el nombre es: Eragorn
+El codigo es: 33333 el nombre es: Yurima
+El codigo es: 44444 el nombre es: Ludovico
+El codigo es: 55555 el nombre es: Michael
+El codigo es: 66666 el nombre es: Nyman
